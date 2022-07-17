@@ -24,7 +24,7 @@
 
 # Tampilan dashboard Dari data klinik setelah login. 
 
-![image](https://user-images.githubusercontent.com/101815570/179382704-dec95f7e-305a-4ced-9f5e-c4211631198c.png)
+![image](https://user-images.githubusercontent.com/101815570/179384092-64b5072b-8c7c-4486-b27e-f4a05ec83933.png)
 
 # Mengimplementasikan modul CRUD (Create, Update, dan Delete)
 
@@ -80,4 +80,6 @@ Saya mengimplementasikan view untuk menampilkan total data berobat laki-laki.
 
 Saya menggunakan fungsi sum untuk menjumlahkan data di setiap tabelnya.
 
-![image](https://user-images.githubusercontent.com/101815570/179383978-b6f85166-d4ab-46c0-8574-e447f6ba124f.png)
+![image](https://user-images.githubusercontent.com/101815570/179384099-e461adbe-9eec-46b2-868b-5be8f38a85ae.png)
+
+kami
