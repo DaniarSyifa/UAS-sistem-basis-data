@@ -74,8 +74,9 @@ Saya mengimplementasikan TRIGGER pada data obat yang berfungsi untuk menampilkan
 
 Saya mengimplementasikan view untuk menampilkan total data berobat laki-laki.
 
-![image](https://user-images.githubusercontent.com/101815570/179383958-84c78f5b-0c3d-4af3-bd99-0c53377774d7.png)
+![image](https://user-images.githubusercontent.com/101815570/179384128-ad8596dd-5305-4553-9c6f-0e99ffc5c9b4.png)
 
+kami
 # Mengimplementasikan fungsi
 
 Saya menggunakan fungsi sum untuk menjumlahkan data di setiap tabelnya.
