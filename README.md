@@ -83,4 +83,8 @@ Saya menggunakan fungsi sum untuk menjumlahkan data di setiap tabelnya.
 
 ![image](https://user-images.githubusercontent.com/101815570/179384099-e461adbe-9eec-46b2-868b-5be8f38a85ae.png)
 
-kami
+
+# Video Penjelasan 
+
+https://youtu.be/0B0WHQWuY8Y
+
